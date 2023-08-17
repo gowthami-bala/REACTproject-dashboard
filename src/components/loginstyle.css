@@ -1,0 +1,10 @@
+.MuiFormLabel-root .MuiInputLabel-root {
+    color: white;
+ }
+ /* .MuiInputBase-root .MuiOutlinedInput-root{
+    color: white;
+ } */
+
+ #outlined-adornment-password,#outlined-adornment-username{
+    color: white;
+ }
